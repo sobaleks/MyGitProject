@@ -7,5 +7,6 @@ public class Main {
         System.out.println(" имитация разаработки");
         System.out.println(" имитация разаработки");
         System.out.println(" имитация разаработки");
+        System.out.println(123);
     }
 }
